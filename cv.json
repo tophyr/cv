@@ -1,69 +1,147 @@
 {
-  "name": "Synergy McBuzzword",
+  "name": "Chris Sarbora",
   "contact_info": {
-    "location": "Thought Leader Island, Disruptopia",
-    "email": "visionary@bleedingedge.biz",
-    "phone": "555 123 4567",
-    "website": "www.geocities.com/Paradigm/Shift/9001/"
+    "location": "Austin, TX",
+    "email": "tophyr@gmail.com",
+    "phone": "206 393 7984",
+    "website": "chrissarbora.com"
   },
-  "title": "Chief Synergistic Disruptor",
-  "summary": "Proactive change agent and visionary trailblazer driving paradigm-shifting innovation through holistic ecosystems and bleeding-edge deliverables. Expert at harvesting low-hanging fruit and actualizing next-gen scalability with actionable synergies.",
+  "title": "Principal Software & Systems Engineer",
+  "summary": "Versatile and highly accomplished Principal Software and Systems Engineer with over two decades of experience designing, developing, and optimizing complex infrastructure across XR, Android, iOS, embedded systems, Linux, and custom operating platforms. Recognized for delivering critical system components - including OpenXR APIs, bytecode compilation frameworks, kernel drivers, and over-the-air system updaters - deployed at scale in consumer devices by Meta, Facebook, and other industry leaders. Adept at technical leadership, cross-functional collaboration, and performance engineering, with a proven track record of mentoring engineers, setting organizational C++ standards, and solving high-impact technical challenges. A trusted authority in system architecture, low-level programming, and platform-level innovation, consistently driving maintainability, reliability, and cutting-edge product capabilities.",
   "positions": [
     {
-      "company": "Holistic Synergy Inc.",
-      "title": "Chief Disruption Officer",
+      "company": "Meta Reality Labs",
+      "title": "Principal Software Engineer",
       "end": {
-        "month": 12,
+        "month": 5,
         "year": 2025
       },
       "start": {
-        "month": 1,
+        "month": 4,
         "year": 2020
       },
-      "summary": "Orchestrated mission-critical alignment initiatives while leveraging bleeding-edge frameworks to harvest cross-functional low-hanging fruit.",
+      "summary": "Led multiple teams, responsible for development of Hand Interaction and Spatial Input in Quest devices and the Reality Labs System Updater shipped in Orion Glasses. Co-authored C++ best practices for Reality Labs, mentored engineers, and guided cross-team standards adoption.",
       "highlights": [
-        "Spearheaded paradigm pivots for synergistic value-add execution",
-        "Drove blue-sky ideation to actualize stakeholder buy-in",
-        "Facilitated next-gen ecosystem scalability with disruptive innovation",
-        "Circle-backed on deliverables to maximize actionable synergies"
+        "Led release of Quest's Hand Interaction APIs, a standardized OpenXR extension used across XR apps and engines",
+        "Designed a novel system update architecture for AR \"constellation\" devices with intermittent connectivity; shipped in Meta's Orion Glasses. Successfully unblocked reliable updates for Meta's AR Glasses future.",
+        "Served as a technical lead for the XR Input team, driving long-term adoption of Spatial Input interaction models",
+        "Authored Linux kernel drivers and low-level input infrastructure to improve latency and throughput",
+        "Co-led a committee defining C++ coding standards for Reality Labs; guidance adopted by 5,000+ developers"
       ]
     },
     {
-      "company": "Paradigm Pivot Group",
-      "title": "Senior Synergy Strategist",
+      "company": "Facebook",
+      "title": "Staff Software Engineer",
       "end": {
-        "month": 12,
-        "year": 2019
+        "month": 4,
+        "year": 2020
       },
       "start": {
         "month": 1,
         "year": 2016
       },
-      "summary": "Champion of disruptive frameworks and blue-sky thought leadership, cultivating mission-critical solutions with holistic stakeholder ecosystems.",
+      "summary": "Led development of core Android performance and reliability tooling, including custom JIT/AOT systems, in-process debuggability, and large-scale automated testing. Drove cross-org initiatives which improved developer productivity and crash resolution for thousands of engineers.",
       "highlights": [
-        "Optimized cross-functional leverage for paradigm alignment",
-        "Harvested mission-critical low-hanging fruit to drive results",
-        "Amplified best-in-class benchmarks through agile pivoting",
-        "Enabled bleeding-edge scalability in dynamic ecosystems"
+        "Built tooling to control Android JIT/AOT behavior, achieving 10x speedup and a 20% scroll performance gain",
+        "Enabled debugger support for large apps by patching Android VM internals; unblocked thousands of developers",
+        "Led a cross-org effort to improve crash triage and debuggability, cutting inactionable crash reports by 70%",
+        "Co-developed Virtual Alpha, an AI-based emulator test system used for automated pre-release validation, which improved available engineering fix time by 200% and is now used by entire Facebook org",
+        "Received Discretionary Equity and \"Greatly Exceeds Expectations\" rating for performance work"
       ]
     },
     {
-      "company": "BlueSky Ecosystems LLC",
-      "title": "Innovation Evangelist",
+      "company": "Cyanogen",
+      "title": "Senior Software Engineer",
       "end": {
-        "month": 12,
+        "month": 10,
         "year": 2015
       },
       "start": {
-        "month": 1,
-        "year": 2013
+        "month": 5,
+        "year": 2014
       },
-      "summary": "Advocated for next-gen value streams and out-of-the-box disruption to create win-win frameworks and mission-critical synergy.",
+      "summary": "Designed system-level Android features, including Google service replacements, privacy-focused telemetry, and kernel driver optimizations. Acted as a developer advocate at hackathons and supported platform adoption through technical outreach.",
       "highlights": [
-        "Pioneered stakeholder buy-in through holistic thought leadership",
-        "Activated paradigm-shifting solutions for scalable success",
-        "Orchestrated circle-back actionables for continuous improvement",
-        "Harvested blue-sky synergies across vertical deliverables"
+        "Built drop-in replacements for Google services on Android, enabling full-featured devices without Google Play",
+        "Designed a privacy-first on-device telemetry system for usage analytics and diagnostics",
+        "Optimized the Android Binder kernel driver, reducing IPC latency and improving multi-process performance to enable 50% reduction in minimum device RAM",
+        "Represented the company at developer hackathons, providing technical support and platform evangelism"
+      ]
+    },
+    {
+      "company": "DocuSign",
+      "title": "Senior Software Engineer",
+      "end": {
+        "month": 5,
+        "year": 2014
+      },
+      "start": {
+        "month": 1,
+        "year": 2011
+      },
+      "summary": "Built and scaled DocuSign's mobile platform from the ground up, leading technical direction and team growth for all mobile initiatives. Defined key mobile-first workflows, system integrations, and development practices that became core to the product.",
+      "highlights": [
+        "Founded and led the mobile app team, shipping the first versions of DocuSign for iOS and Android",
+        "Implemented major features like offline signing, push notifications, OAuth, and custom PDF rendering",
+        "Led redesigns of backend REST APIs to support secure and scalable mobile-first workflows, enabling DocuSign Mobile to go from <5% monthly users at launch to >90% of monthly users by 2013",
+        "Built and maintained mobile CI pipelines and test automation using Selendroid and Mockito",
+        "Co-presented technical integration with HTC Pen APIs at external events"
+      ]
+    },
+    {
+      "company": "PaperG",
+      "title": "Software Engineer",
+      "end": {
+        "month": 6,
+        "year": 2011
+      },
+      "start": {
+        "month": 7,
+        "year": 2008
+      },
+      "summary": "First dedicated software engineer. Responsible for designing and scaling PaperG's backend architecture, payments, and ad tooling. Delivered secure systems and performance optimizations that supported high availability and rapid company growth.",
+      "highlights": [
+        "Developed and maintained payment infrastructure for handling online transactions securely",
+        "Scaled backend architecture horizontally to ensure high service availability; achieved 100x downtime reduction",
+        "Designed and optimized a Flash compiler, reducing final SWF output sizes by ~50%",
+        "Contributed to core ad-generation tools and frontend customization capabilities, enabling rapid customer growth"
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "title": "Software Development Engineer",
+      "end": {
+        "month": 7,
+        "year": 2008
+      },
+      "start": {
+        "month": 6,
+        "year": 2006
+      },
+      "summary": "Maintained internal tools and build systems for Exchange Hosted Services, improving developer workflows and release stability. Contributed to infrastructure supporting secure, large-scale email services during integration into Microsoft's broader Exchange platform.",
+      "highlights": [
+        "Maintained and enhanced internal line-of-business apps supporting the Exchange Hosted Services division",
+        "Optimized build and deployment tooling to improve developer productivity and release reliability",
+        "Contributed to infrastructure supporting hosted email filtering, archiving, and compliance products",
+        "Ensured tooling stability across rapid product iterations during the team's integration into Microsoft's larger Exchange group"
+      ]
+    },
+    {
+      "company": "Angel Island",
+      "title": "Senior Software Engineer",
+      "end": {
+        "month": 6,
+        "year": 2009
+      },
+      "start": {
+        "month": 1,
+        "year": 2005
+      },
+      "summary": "Re-architected a legacy MMORPG server for high concurrency and memory efficiency, enabling 10x scalability. Designed complex gameplay and AI systems that expanded the game's depth and player capacity.",
+      "highlights": [
+        "Re-architected MMORPG server from single-threaded to multi-threaded, increasing scalability 10x",
+        "Built a custom in-memory object compression system, reducing RAM usage by 100x and improving stability",
+        "Developed advanced gameplay systems including genetic creature evolution, dynamic quest logic, world-scale pathfinding AI and concerted monster behaviors"
       ]
     }
   ],
@@ -72,21 +150,66 @@
       "name": "Showcase Projects",
       "items": [
         {
-          "name": "Bleeding-Edge Synergy Platform",
+          "name": "Meta Quest Hand Interaction API",
           "highlights": [
-            "Architected mission-critical frameworks for stakeholder alignment",
-            "Harvested low-hanging fruit through disruptive pivoting",
-            "Maximized paradigm scalability via cross-functional ecosystems",
-            "Circle-backed deliverables to ensure holistic synergy"
+            "Defined and shipped the Hand Interaction API as an OpenXR extension for Meta Quest and Oculus PC",
+            "Enabled hand tracking as a controller abstraction, fulfilling a major request from Unity",
+            "Led development, QA, and test framework design; introduced novel interactive end-to-end tests",
+            "Refactored OpenXR runtime architecture to maintain backward compatibility with existing APIs"
           ]
         },
         {
-          "name": "Next-Gen Paradigm Shift Engine",
+          "name": "Meta Orion (AR Glasses) System Updater",
           "highlights": [
-            "Spearheaded blue-sky ideation with actionable buy-in",
-            "Orchestrated win-win value streams across holistic verticals",
-            "Deployed bleeding-edge solutions with best-in-class benchmarks",
-            "Activated stakeholder engagement through visionary alignment"
+            "Designed and led a mesh-based software update system for distributed AR devices without internet access",
+            "Enabled peer-to-peer update relaying across device constellations (glasses, wristbands, compute pucks) with dynamic fallback paths",
+            "Built initial prototype on XROS, a custom Fuchsia-derived OS, and productionized for Android-based Orion",
+            "Delivered a low-overhead architecture suitable for boot recovery and embedded use, outperforming legacy updaters in memory and CPU usage",
+            "Unblocked deep platform-level issues (storage, networking, testing infra) to enable success, while leading a cross-functional team over a 2-year cycle"
+          ]
+        },
+        {
+          "name": "DocuSign Mobile Apps",
+          "highlights": [
+            "Built and led development of DocuSign's first mobile apps for iOS and Android",
+            "Designed core features like offline signing, push notifications, and on-device PDF rendering",
+            "Led a team of 4 engineers, handled app architecture, CI tooling, and test frameworks (Selendroid, Mockito)",
+            "Re-architected backend REST APIs for mobile scalability and encapsulation"
+          ]
+        },
+        {
+          "name": "Facebook for Android JIT/AOT Compiler",
+          "highlights": [
+            "Co-developed tooling to control Android JIT/AOT compilation, resulting in 10x execution speedups",
+            "Created the \"Museum\" framework to safely interact with ART virtual machine internals using AOSP headers and runtime ABI verification",
+            "Work contributed to a ~20% scroll performance win, a rare large-scale improvement"
+          ]
+        },
+        {
+          "name": "Facebook for Android Debugging",
+          "highlights": [
+            "Enabled debugger attachment by in-process patching of Dalvik/ART VM to fix JNI reference overflow limits",
+            "Led a cross-org \"virtual team\" to improve in-field crash insight and engineering velocity",
+            "Built tools for ASAN adoption, memory corruption detection, and crash actionability scoring",
+            "Reduced inactionable crash reports by 70%, unlocking faster and more reliable releases"
+          ]
+        },
+        {
+          "name": "Virtual Alpha",
+          "highlights": [
+            "Co-created a Markov Chain-based emulator test framework to simulate 100k+ user sessions",
+            "Trained the system on real-world usage patterns to find alpha bugs faster than human testers",
+            "Became Facebook's primary alpha testing signal, doubling engineer fix window before prod",
+            "System now used org-wide for pre-beta regression detection"
+          ]
+        },
+        {
+          "name": "In-Process Memory Compaction",
+          "highlights": [
+            "Noticed game save files were far smaller than RAM usage, implying significant opportunity for optimization",
+            "Built an in-memory serialization/deserialization system to compress inactive game objects",
+            "Reduced server memory usage ~100x, eliminating restart pressure and enabling high concurrency",
+            "Functioned like a custom virtual memory system, tailored for game object access patterns"
           ]
         }
       ]
@@ -95,17 +218,29 @@
       "name": "Recognition",
       "items": [
         {
-          "name": "Synergy Hall of Fame",
+          "name": "Meta",
           "highlights": [
-            "Awarded Disruptive Visionary of the Year",
-            "Recognized for paradigm-shifting blue-sky initiatives"
+            "\"Discretionary Equity\" bonus for 10x JIT/AOT speedup and 20% scroll-perf gain",
+            "Company-wide \"Fix of the Week\" recognition for unblocking debugger usage across Android org"
           ]
         },
         {
-          "name": "Paradigm Awards",
+          "name": "Descent 3",
           "highlights": [
-            "Honored for harvesting mission-critical low-hanging fruit",
-            "Named Chief Circle-Back Champion"
+            "Accepted as an official Project Maintainer thanks to contributions and activity"
+          ]
+        },
+        {
+          "name": "Droidcon SF",
+          "highlights": [
+            [
+              "Invited to speak at 2017 conference: ",
+              {
+                "text": "\"Redex, Your Build, and You\"",
+                "url": "https://www.youtube.com/watch?v=vtxJvJj6gSE"
+              },
+              " (YouTube recording)"
+            ]
           ]
         }
       ]
@@ -114,17 +249,56 @@
       "name": "Leadership Examples",
       "items": [
         {
-          "name": "Holistic Value Alignment",
+          "name": "C++ Standards for Meta Reality Labs",
           "highlights": [
-            "Led cross-functional teams to pivot synergistically",
-            "Facilitated actionable buy-ins with stakeholder ecosystems"
+            "Served as panel lead defining org-wide C++ coding standards and best practices",
+            "Produced guidance for performance, portability, integration, and code architecture",
+            "Decisions affected ~5,000 engineers across Reality Labs hardware, firmware, and software teams",
+            "Influenced long-term maintainability and consistency of critical AR/VR system codebases"
           ]
         },
         {
-          "name": "Paradigm Shift Taskforce",
+          "name": "Meta Quest Spatial Input",
           "highlights": [
-            "Orchestrated best-in-class deliverables across verticals",
-            "Enabled blue-sky ideation with next-gen scalability"
+            "Acted as technical lead advocating for Spatial Input as a forward-looking XR interaction model",
+            "Developed new OpenXR extensions, redesigned APIs, and refactored runtime layers to support vision",
+            "Evangelized the architecture through internal talks and conferences, influencing adoption across Meta",
+            "Balanced backward compatibility with aggressive support for emerging modalities"
+          ]
+        },
+        {
+          "name": "Reality Labs System Updater",
+          "highlights": [
+            "Designed and led implementation of a constellation-aware system updater for Meta AR devices",
+            "Oversaw team of 4 engineers across design, development, QA, and release",
+            "Introduced novel update delivery model for mesh-connected, intermittently online XR devices",
+            "Ensured high reliability and low system overhead, including ability to run from recovery partition"
+          ]
+        },
+        {
+          "name": "Android Debuggability",
+          "highlights": [
+            "Led multi-year, cross-org initiative to improve Android app crash triage and debugging",
+            "Organized a \"virtual team\" across orgs to align goals, tooling, and crash infrastructure",
+            "Integrated ASAN, automated crash routing with \"actionability scores,\" and improved dump collection",
+            "Cut inactionable crash rates by 70%, accelerating bug resolution and engineer productivity"
+          ]
+        },
+        {
+          "name": "Mentorship, Presentations, Conference Talks",
+          "highlights": [
+            "Directly mentored multiple engineers, helping them reach Management and Principal roles",
+            "Regular internal conference speaker across all companies from DocuSign to Meta",
+            "Represented companies at hackathons, developer events, hiring fairs and external conferences"
+          ]
+        },
+        {
+          "name": "DocuSign Mobile + API Design",
+          "highlights": [
+            "Acted as founding tech lead for mobile efforts, leading mobile team and setting architectural direction",
+            "Drove feature development (OAuth, offline signing, push, PDF rendering) and performance strategy",
+            "Redefined backend REST APIs for mobile-first workflows and better abstraction",
+            "Championed mobile CI pipelines, test coverage, and API reliability for real-world usage"
           ]
         }
       ]
@@ -133,19 +307,35 @@
       "name": "Open Source",
       "items": [
         {
-          "name": "Open Synergy Framework",
-          "url": "github.com/bleedingedge/synergy",
+          "name": "Descent 3",
+          "url": "github.com/DescentDevelopers/Descent3",
           "highlights": [
-            "Developed cross-functional paradigms for open collaboration",
-            "Harvested stakeholder engagement for community buy-in"
+            "Maintainer responsible for Android, iOS and VR functionality",
+            "Modernized the game engine for VR and Android",
+            "Refactored input and rendering paths for immersive compatibility",
+            "Building an embedded x86 emulator to run legacy plugins on non-x86 hardware"
           ]
         },
         {
-          "name": "PivotOS",
-          "url": "github.com/holistic/pivotos",
+          "name": "C++ Disclaim Operator",
+          "url": "github.com/tophyr/llvm-project/tree/disclaim",
           "highlights": [
-            "Architected mission-critical ecosystem modules",
-            "Championed blue-sky contributions for paradigm scalability"
+            "Designing a C++ language feature to simplify and improve move semantics; prototyping in the Clang compiler",
+            "Creates a safer, more expressive alternative to std::move, reducing boilerplate and improving code clarity",
+            "Enables support for advanced scenarios, including generic code and sub-object replacement",
+            "Introduces mechanisms for developers to customize or opt out entirely for sensitive types (e.g. mutexes)",
+            "Contributes to long-term language evolution by experimenting with value-category-aware reference types"
+          ]
+        },
+        {
+          "name": "Linux ProxyFD Driver",
+          "url": "github.com/tophyr/linux/tree/proxyfd",
+          "highlights": [
+            "Designed and implemented a loadable character-device driver (/dev/proxy) for Linux, enabling revocable file descriptor delegation across processes",
+            "Introduced a control/proxy FD pair model: the control FD can attach/detach a proxy FD to any existing resource, enabling fine-grained external access",
+            "Proxy FDs fully replicate the behavior of the original resource (read/write/seek/epoll/ioctl/etc), while supporting out-of-process transfer and revocation",
+            "Enables new capability-based access control patterns without destroying or recreating underlying kernel objects",
+            "Useful in container, sandbox, and service isolation scenarios where revocable delegation of restricted resources is required"
           ]
         }
       ]
@@ -153,37 +343,76 @@
   ],
   "keywords": [
     [
-      "Synergy Harvesting",
-      "Paradigm Pivoting",
-      "Holistic Disruption",
-      "Bleeding-Edge Ideation"
+      "C",
+      "C++",
+      "Java",
+      "Assembly",
+      "Rust",
+      "Python",
+      "Javascript",
+      "C#",
+      "SQL"
     ],
     [
-      "Cross-Functional Alignment",
-      "Win-Win Ecosystems",
-      "Circle-Back Actionables"
+      "Android",
+      "AOSP",
+      "iOS",
+      "Linux",
+      ".NET",
+      "embedded",
+      "custom HLOS AR/VR operating systems"
     ],
     [
-      "Mission-Critical Execution",
-      "Blue-Sky Deliverables",
-      "Next-Gen Scalability"
+      "API Design",
+      "OpenXR",
+      "kernel driver development",
+      "performance tuning",
+      "debugging",
+      "reliability",
+      "compilers",
+      "reverse engineering",
+      "Android internals",
+      "virtualization",
+      "REST",
+      "SELinux"
     ],
     [
-      "Synergistic Leverage",
-      "Paradigm Disruption",
-      "Holistic Value Streams",
-      "Blue-Sky Ecosystems",
-      "Mission-Critical Thought Leadership",
-      "Low-Hanging Fruit Activation",
-      "Cross-Functional Pivoting",
-      "Bleeding-Edge Agility",
-      "Stakeholder Ecosystem Buy-In",
-      "Win-Win Frameworks",
-      "Next-Gen Scalability",
-      "Actionable Circle-Backs",
-      "Out-of-the-Box Synergies",
-      "Visionary Alignment",
-      "Best-in-Class Deliverables"
+      "Android SDK",
+      "Android NDK",
+      "gcc",
+      "clang",
+      "LLVM",
+      "gdb",
+      "lldb",
+      "Valgrind",
+      "ASAN",
+      "perf",
+      "Git",
+      "CMake",
+      "Buck",
+      "Gradle",
+      "custom build systems",
+      "QEMU",
+      "VirtualBox",
+      "VMware",
+      "HyperV"
+    ],
+    [
+      "System Architecture & Infrastructure Design",
+      "Cross-Platform Development (Web, iOS, Android, Linux, XR)",
+      "Performance Optimization & Debugging",
+      "Kernel & Driver Engineering",
+      "Android Internals & AOSP Customization",
+      "Open XR & Spatial Input APIs",
+      "Embedded Systems & Custom OS Platforms",
+      "OTA & System Update Frameworks",
+      "Compiler Tooling & Bytecode Systems",
+      "Scalable API Design & Mobile Architecture",
+      "Technical Leadership & Standards",
+      "Cross-Functional Team Collaboration",
+      "CI/CD & Automation Frameworks",
+      "Developer Tooling & Debug Infrastructure",
+      "Mentorship & Engineering Culture"
     ]
   ]
 }
