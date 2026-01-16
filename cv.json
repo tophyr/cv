@@ -8,9 +8,24 @@
     "linkedin": "chris-sarbora",
     "github": "tophyr"
   },
-  "title": "Principal Software & Systems Engineer",
-  "summary": "Principal Software and Systems Engineer with 20+ years building and optimizing complex XR, mobile, embedded, and Linux platforms. Delivered critical system components, such as OpenXR APIs, kernel drivers, and bytecode frameworks, for Meta and other leaders. Trusted for technical leadership, cross-team collaboration, mentoring, and solving high-impact system-level challenges.",
+  "title": "Distinguished Software Engineer",
+  "summary": "Distinguished Software and Systems Engineer with 20+ years building and optimizing complex XR, mobile, embedded, and Linux platforms. Delivered critical system components, such as OpenXR APIs, kernel drivers, and bytecode frameworks, for Meta and other leaders. Trusted for technical leadership, cross-team collaboration, mentoring, and solving high-impact system-level challenges.",
   "positions": [
+    {
+      "company": "General Motors",
+      "title": "Distinguished Engineer",
+      "start": {
+        "month": 9,
+        "year": 2025
+      },
+      "summary": "Isolating and solving organization- and company-wide challenges standing in the way of engineering teams.",
+      "highlights": [
+        "Reduced build times from 24+ hours to 10 minutes and ensured build idempotency, enabling commit-level verification and true continuous integration builds",
+        "Introduced \"API Contract\"/\"Encapsulated Responsibilities\" concepts and drove a cultural shift toward defining software by interfaces rather than actions",
+        "Evangelized \"Performance Summary Cycle\" training, ensuring leaders understood the underlying fundamentals and how to avoid the system's pitfalls",
+        "Drove development of engineering recruiting pipeline structure and standards for entire Vehicle Software & Embedded Engineering organization"
+      ]
+    },
     {
       "company": "Meta Reality Labs",
       "title": "Principal Software Engineer",
